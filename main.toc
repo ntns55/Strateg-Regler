@@ -3,8 +3,9 @@
 \contentsline {chapter}{Niveau 1}{5}{chapter*.3}%
 \contentsline {section}{Evne beskrivelse}{5}{table.caption.4}%
 \contentsline {subsection}{Akademiske Kontakter niv 1}{5}{section*.5}%
-\contentsline {subsection}{Gruppestifter Niv. 1}{6}{section*.5}%
-\contentsline {subsection}{Investorer Niv. 1}{7}{section*.5}%
+\contentsline {subsection}{Brug af Pistol}{7}{section*.5}%
+\contentsline {subsection}{Gruppestifter Niv. 1}{7}{section*.5}%
+\contentsline {subsection}{Investorer Niv. 1}{8}{section*.5}%
 \contentsline {subsection}{Læse og skrive Elvisk}{8}{section*.5}%
 \contentsline {subsection}{Rygte Spreder/Samler Niv. 1}{8}{figure.caption.6}%
 \contentsline {chapter}{Niveau 2}{9}{chapter*.7}%
@@ -15,24 +16,24 @@
 \contentsline {subsection}{Investorer Niv. 2}{11}{section*.9}%
 \contentsline {subsection}{Kemisk våben}{11}{section*.9}%
 \contentsline {subsection}{Lommetyveri Niv. 1}{11}{section*.9}%
-\contentsline {subsection}{Reparere rustning Niv. 1}{12}{section*.9}%
-\contentsline {chapter}{Niveau 3}{13}{chapter*.10}%
-\contentsline {section}{Evne beskrivelse}{13}{table.caption.11}%
-\contentsline {subsection}{Akademiske Kontakter Niv. 3}{13}{section*.12}%
-\contentsline {subsection}{Borgadministrator}{14}{section*.12}%
-\contentsline {subsection}{Diplomatisk magt Niv. 1}{14}{section*.12}%
-\contentsline {subsection}{Gruppestifter Niv. 3}{14}{section*.12}%
-\contentsline {subsection}{Indgyd Mod}{15}{section*.12}%
-\contentsline {subsection}{Investorer Niv. 3}{15}{section*.12}%
-\contentsline {chapter}{Niveau 4}{16}{chapter*.13}%
-\contentsline {section}{Evne beskrivelse}{16}{table.caption.14}%
-\contentsline {subsection}{Akademiske Kontakter Niv. 4}{16}{section*.15}%
-\contentsline {subsection}{Diplomatisk magt Niv. 2}{17}{section*.15}%
-\contentsline {subsection}{Glemte kontakter}{17}{section*.15}%
+\contentsline {subsection}{Reparere rustning Niv. 1}{11}{section*.9}%
+\contentsline {chapter}{Niveau 3}{12}{chapter*.10}%
+\contentsline {section}{Evne beskrivelse}{12}{table.caption.11}%
+\contentsline {subsection}{Akademiske Kontakter Niv. 3}{12}{section*.12}%
+\contentsline {subsection}{Borgadministrator}{13}{section*.12}%
+\contentsline {subsection}{Diplomatisk magt Niv. 1}{13}{section*.12}%
+\contentsline {subsection}{Gruppestifter Niv. 3}{13}{section*.12}%
+\contentsline {subsection}{Indgyd Mod}{14}{section*.12}%
+\contentsline {subsection}{Investorer Niv. 3}{14}{section*.12}%
+\contentsline {chapter}{Niveau 4}{15}{chapter*.13}%
+\contentsline {section}{Evne beskrivelse}{15}{table.caption.14}%
+\contentsline {subsection}{Akademiske Kontakter Niv. 4}{15}{section*.15}%
+\contentsline {subsection}{Diplomatisk magt Niv. 2}{16}{section*.15}%
+\contentsline {subsection}{Faktionsleder}{16}{section*.15}%
 \contentsline {subsection}{Guld for Magt}{17}{section*.15}%
-\contentsline {subsection}{Investorer Niv. 4}{18}{section*.15}%
+\contentsline {subsection}{Guld for Magt}{17}{section*.15}%
+\contentsline {subsection}{Investorer Niv. 4}{17}{section*.15}%
 \contentsline {subsection}{Investorer Niv. 5}{18}{section*.15}%
-\contentsline {subsection}{Social Kamæleon}{18}{section*.15}%
 \contentsline {subsection}{Triage}{18}{section*.15}%
 \contentsline {chapter}{Generelle evner}{19}{chapter*.16}%
 \contentsline {section}{Evne beskrivelse}{19}{table.caption.17}%
