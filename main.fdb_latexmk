@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1755264090.83151 "c:/Users/Administrator/Documents/GitHub/Politikeren-Regler/main.tex" "main.pdf" "main" 1755264095.00406 2
+["pdflatex"] 1755265084.62029 "c:/Users/Administrator/Documents/GitHub/Politikeren-Regler/main.tex" "main.pdf" "main" 1755265088.65794 2
   "../Evne-Ordbog/GenerelleEvner/Generelle evner - IngenMagiIngenTohånds.tex" 1754491980 1593 b2ee94169a923623cfd1850fdba38cde ""
   "../Evne-Ordbog/Helbred sår.tex" 1754844981 160 d4c365c7b999f80c237283a2091fb0bd ""
   "../Evne-Ordbog/Indgyd mod.tex" 1754844981 408 d0b2b235cb5d8037b556332ccba75b13 ""
@@ -252,15 +252,15 @@
   "C:/Users/Administrator/AppData/Roaming/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/Administrator/AppData/Roaming/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/Administrator/Documents/GitHub/Politikeren-Regler/main.tex" 1755263120 1807 48fb4ce47fe262df3bb999871e4bb46b ""
-  "main.aux" 1755264094 5918 db8c3ccf001e45f93502451503481902 "pdflatex"
-  "main.out" 1755264094 7333 3bc79506c3cd2dd729d7872a6047349b "pdflatex"
+  "main.aux" 1755265088 5915 44be9facd054e65a0cdc137ca00078f2 "pdflatex"
+  "main.out" 1755265088 7312 9daf17d1401445c6a3da83cd125084fa "pdflatex"
   "main.tex" 1755263120 1807 48fb4ce47fe262df3bb999871e4bb46b ""
-  "main.toc" 1755264094 3248 bd1e380a0a0b4829c53fa904370e3d5d "pdflatex"
+  "main.toc" 1755265088 3245 99502cc46707914724105577bfefbf34 "pdflatex"
   "mainstuff/Indledning.tex" 1754492094 906 87581ac741087f263c59d373665c14f3 ""
   "mainstuff/Niv1.tex" 1754852349 6568 8ffdd93ecbd0228c3528513f85235c19 ""
   "mainstuff/Niv2.tex" 1754846837 4416 fb6fddb6c76d44274e3d27f50aa4f98c ""
-  "mainstuff/Niv3.tex" 1755264081 5020 80e3a63da98e730ce6951956d7596d4d ""
-  "mainstuff/Niv4.tex" 1754852911 6153 44ff5730981e3832c89a8f25d2a4e018 ""
+  "mainstuff/Niv3.tex" 1755264389 4986 657d69b217769ceb7594a46845c34d75 ""
+  "mainstuff/Niv4.tex" 1755265079 6147 cded4a778504172c67ea06991c236b94 ""
   "setup/Alfabeter/Elvisk alfabet.pdf" 1754492094 123684 4da46b3e88f8a8b74d721259993a3376 ""
   "setup/Evner/6SansNiv1.tex" 1754492094 125 5a761c2524ce66bae7db59e91e673154 ""
   "setup/Evner/6SansNiv2.tex" 1754492094 128 9195aa1f7d1d5792b82f1dc6af67b272 ""

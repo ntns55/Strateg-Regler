@@ -379,9 +379,6 @@ INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\un
 INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\stmaryrd\stmaryrd.sty
 INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\stmaryrd\stmaryrd.sty
-INPUT .\main.aux
-INPUT .\main.aux
-INPUT main.aux
 OUTPUT main.aux
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
