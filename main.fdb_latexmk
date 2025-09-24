@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1758389601.79983 "c:/Users/niels/Documents/GitHub/Politikeren-Regler/main.tex" "main.pdf" "main" 1758389604.77883 0
+["pdflatex"] 1758740958.51667 "c:/Users/niels/Documents/GitHub/Politikeren-Regler/main.tex" "main.pdf" "main" 1758740961.50838 0
   "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex" 1758221558 122 ba25b781fb5a459c20d8a0c78fdf92f9 ""
   "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv2.tex" 1758221558 123 88d24f5d7d40dd90ed7f740380219219 ""
   "../Evne-Ordbog/GenerelleEvner/Evner/Bonk.tex" 1758221558 537 bc4ff6c8ccd470eeaf4c99935a3ec95b ""
@@ -285,12 +285,12 @@
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/niels/Documents/GitHub/Politikeren-Regler/main.tex" 1758389584 1803 a4c50d220ca6e230aeac03df16b2ed2a ""
-  "main.aux" 1758389604 6143 51a563c5a894718e61a66ff792919b86 "pdflatex"
-  "main.out" 1758389604 6861 b9e8b81f5c968d012440926ed02f599c "pdflatex"
+  "main.aux" 1758740961 6143 51a563c5a894718e61a66ff792919b86 "pdflatex"
+  "main.out" 1758740961 6861 b9e8b81f5c968d012440926ed02f599c "pdflatex"
   "main.tex" 1758389584 1803 a4c50d220ca6e230aeac03df16b2ed2a ""
-  "main.toc" 1758389604 3178 75455fb738b290753ab9f4ec6e83d75e "pdflatex"
-  "mainstuff/Indledning.tex" 1758389584 1148 a4359021ed61e3a5bb6d94a61b15283b ""
-  "mainstuff/Niv1.tex" 1758389584 6061 902bf854614b10d5216d538c97f82a0f ""
+  "main.toc" 1758740961 3178 75455fb738b290753ab9f4ec6e83d75e "pdflatex"
+  "mainstuff/Indledning.tex" 1758740875 1147 51dc19ab8b021de8dd4c9a8e34e00157 ""
+  "mainstuff/Niv1.tex" 1758740957 6061 bcf9535f8c81233ab0993c74f3f704eb ""
   "mainstuff/Niv2.tex" 1758389584 4016 9c8f3587ded5aa58feefb2f2a4732ee3 ""
   "mainstuff/Niv3.tex" 1758389584 4578 303e3eab03b84edda8f111b484ada8fb ""
   "mainstuff/Niv4.tex" 1758389584 5702 453ea46e362f15d711a43577f883175b ""
