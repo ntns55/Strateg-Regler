@@ -47,8 +47,8 @@
 \contentsline {subsection}{Læse og skrive}{22}{subsection*.44}%
 \contentsline {subsection}{Minearbejder}{22}{subsection*.45}%
 \contentsline {subsection}{Påfør gift}{22}{subsection*.46}%
-\contentsline {subsection}{Slagsbror Niv. 1}{22}{subsection*.47}%
+\contentsline {subsection}{Slagsbror Niv. 1}{23}{subsection*.47}%
 \contentsline {subsection}{Slagsbror Niv. 2}{23}{subsection*.48}%
 \contentsline {subsection}{Slagsbror Niv. 2}{23}{subsection*.49}%
 \contentsline {subsection}{Speciale}{23}{subsection*.50}%
-\contentsline {subsection}{Urtesamler}{23}{subsection*.51}%
+\contentsline {subsection}{Urtesamler}{24}{subsection*.51}%
