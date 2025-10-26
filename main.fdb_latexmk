@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1761420810.72614 "c:/Users/niels/Documents/GitHub/Politikeren-Regler/main.tex" "main.pdf" "main" 1761420813.78093 0
+["pdflatex"] 1761511760.32904 "c:/Users/niels/Documents/GitHub/Politikeren-Regler/main.tex" "main.pdf" "main" 1761511763.3358 0
   "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex" 1758221558 122 ba25b781fb5a459c20d8a0c78fdf92f9 ""
   "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv2.tex" 1758221558 123 88d24f5d7d40dd90ed7f740380219219 ""
   "../Evne-Ordbog/GenerelleEvner/Evner/Bonk.tex" 1758221558 537 bc4ff6c8ccd470eeaf4c99935a3ec95b ""
@@ -284,16 +284,16 @@
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
-  "c:/Users/niels/Documents/GitHub/Politikeren-Regler/main.tex" 1758389584 1803 a4c50d220ca6e230aeac03df16b2ed2a ""
-  "main.aux" 1761420813 6736 5bd6fcde9b07061ab864d4650d5611ec "pdflatex"
-  "main.out" 1761420813 6863 1cb984f78cc101ad635645e63f2e20e1 "pdflatex"
-  "main.tex" 1758389584 1803 a4c50d220ca6e230aeac03df16b2ed2a ""
-  "main.toc" 1761420813 3565 c604f4504f4947e418f5a0008ab07d86 "pdflatex"
-  "mainstuff/Indledning.tex" 1758740875 1147 51dc19ab8b021de8dd4c9a8e34e00157 ""
-  "mainstuff/Niv1.tex" 1761350918 6114 970b37ce9c2b2af816ef42cc029a600a ""
-  "mainstuff/Niv2.tex" 1761350918 4048 730d788a1dbd8f9b9e356d647330f1de ""
-  "mainstuff/Niv3.tex" 1761350918 4802 a72be6031327920bdd776b7d4279decf ""
-  "mainstuff/Niv4.tex" 1758389584 5702 453ea46e362f15d711a43577f883175b ""
+  "c:/Users/niels/Documents/GitHub/Politikeren-Regler/main.tex" 1761511759 1799 5e5f6e45d1842cc4057eb0497a75435e ""
+  "main.aux" 1761511763 6579 ff5a55bba4442b269a66a19027db68db "pdflatex"
+  "main.out" 1761511763 6805 fd5e85b4f54445bfc7fa0fd65d384d52 "pdflatex"
+  "main.tex" 1761511759 1799 5e5f6e45d1842cc4057eb0497a75435e ""
+  "main.toc" 1761511763 3449 f2b7f6d95df20ef6f6a9770526869c1b "pdflatex"
+  "mainstuff/Indledning.tex" 1761511759 1133 1f8dd267d075599a331ff858d04f750b ""
+  "mainstuff/Niv1.tex" 1761511759 8433 563121913fd1312d3295c1ea112f6242 ""
+  "mainstuff/Niv2.tex" 1761511759 4075 8b2c4939f7d67472fe85209bc783213b ""
+  "mainstuff/Niv3.tex" 1761511759 2917 b872009edabd19597bb3bc1c416200b5 ""
+  "mainstuff/Niv4.tex" 1761511759 5844 a5ca6963fb862bf582db58e4bc7f3d1d ""
   "setup/Pictures/A01.C01.01_Front_Billede.png" 1754339262 6403955 f084c9143d1fcc3045f3c66faf856f1d ""
   (generated)
   "main.aux"
