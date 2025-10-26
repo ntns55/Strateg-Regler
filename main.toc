@@ -5,25 +5,25 @@
 \contentsline {subsection}{Akademiske Kontakter niv 1}{5}{subsection*.4}%
 \contentsline {subsection}{Brug af Pistol}{7}{subsection*.5}%
 \contentsline {subsection}{Hærfører Niv. 1}{7}{subsection*.6}%
-\contentsline {subsubsection}{Tropper:}{7}{subsubsection*.7}%
-\contentsline {subsubsection}{Krav for Faktionsidentifikation:}{7}{subsubsection*.8}%
-\contentsline {subsection}{Investorer Niv. 1}{8}{subsection*.9}%
-\contentsline {subsection}{Læse og skrive Elvisk}{8}{subsection*.10}%
-\contentsline {subsection}{Rygte Spreder/Samler Niv. 1}{8}{subsection*.12}%
-\contentsline {chapter}{\numberline {3}Niveau 2}{9}{chapter.3}%
-\contentsline {section}{Evne beskrivelse}{9}{section*.14}%
-\contentsline {subsection}{Akademiske Kontakter Niv. 2}{9}{subsection*.15}%
-\contentsline {subsection}{Hærfører Niv. 2}{10}{subsection*.16}%
-\contentsline {subsubsection}{Tropper:}{11}{subsubsection*.17}%
-\contentsline {subsection}{Helbred Sår}{11}{subsection*.18}%
-\contentsline {subsection}{Investorer Niv. 2}{11}{subsection*.19}%
-\contentsline {subsection}{Reparere rustning Niv. 1}{11}{subsection*.19}%
-\contentsline {chapter}{\numberline {4}Niveau 3}{12}{chapter.4}%
-\contentsline {section}{Evne beskrivelse}{12}{section*.21}%
-\contentsline {subsection}{Akademiske Kontakter Niv. 3}{12}{subsection*.22}%
-\contentsline {subsection}{Borgadministrator}{13}{subsection*.23}%
-\contentsline {subsection}{Diplomatisk magt Niv. 1}{13}{subsection*.24}%
-\contentsline {subsection}{Hærfører Niv. 3}{13}{subsection*.25}%
+\contentsline {subsubsection}{Tropper:}{8}{subsubsection*.7}%
+\contentsline {subsubsection}{Krav for Faktionsidentifikation:}{9}{subsubsection*.8}%
+\contentsline {subsection}{Investorer Niv. 1}{9}{subsection*.9}%
+\contentsline {subsection}{Læse og skrive Elvisk}{9}{subsection*.10}%
+\contentsline {subsection}{Rygte Spreder/Samler Niv. 1}{9}{subsection*.12}%
+\contentsline {chapter}{\numberline {3}Niveau 2}{10}{chapter.3}%
+\contentsline {section}{Evne beskrivelse}{10}{section*.14}%
+\contentsline {subsection}{Akademiske Kontakter Niv. 2}{10}{subsection*.15}%
+\contentsline {subsection}{Borgadministrator}{11}{subsection*.16}%
+\contentsline {subsection}{Hærfører Niv. 2}{11}{subsection*.17}%
+\contentsline {subsubsection}{Tropper:}{11}{subsubsection*.18}%
+\contentsline {subsection}{Helbred Sår}{12}{subsection*.19}%
+\contentsline {subsection}{Investorer Niv. 2}{12}{subsection*.20}%
+\contentsline {subsection}{Reparere rustning Niv. 1}{12}{subsection*.20}%
+\contentsline {chapter}{\numberline {4}Niveau 3}{13}{chapter.4}%
+\contentsline {section}{Evne beskrivelse}{13}{section*.22}%
+\contentsline {subsection}{Akademiske Kontakter Niv. 3}{13}{subsection*.23}%
+\contentsline {subsection}{Diplomatisk magt Niv. 1}{14}{subsection*.24}%
+\contentsline {subsection}{Hærfører Niv. 3}{14}{subsection*.25}%
 \contentsline {subsubsection}{Tropper:}{14}{subsubsection*.26}%
 \contentsline {subsection}{Investorer Niv. 3}{14}{subsection*.27}%
 \contentsline {chapter}{\numberline {5}Niveau 4}{15}{chapter.5}%

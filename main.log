@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  25 OCT 2025 23:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  26 OCT 2025 21:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1236,7 +1236,7 @@ LaTeX Font Info:    Trying to load font information for U+stmry on input line 4.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.23 ...iske Kontakter Niv. 3}{12}{subsection*.22}
+l.22 ...r}{\numberline {4}Niveau 3}{13}{chapter.4}
                                                   % [1
 
 
@@ -1293,21 +1293,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--40
 
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 65.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 65.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 65.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 65.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 65.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 65.
+
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 
 
-[7] (../Evne-Ordbog/Investorer/Investorer Niv 1.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--70
+[8] (../Evne-Ordbog/Investorer/Investorer Niv 1.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 2--87
 
  []
 
 (../Evne-Ordbog/Læse og skrive/Læse og skrive Elvisk.tex
 
 pdfTeX warning: pdflatex (file ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf, id=323, 495.14487pt x 82.34865pt>
+<../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf, id=328, 495.14487pt x 82.34865pt>
 File: ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf Graphic file (type pdf)
 <use ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf  used on input line 5.
@@ -1319,52 +1338,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
 ) (../Evne-Ordbog/Rygtespreder/Rygtespreder Niv 1.tex)) (mainstuff/Niv2.tex
 
-[8 <../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf>]
+[9 <../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf>]
 Kapitel 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--22
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--25
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
 
  []
 
 
 
-[9
+[10
 
 
 ]
 
-[10] (../Evne-Ordbog/Helbred sår.tex) (../Evne-Ordbog/Investorer/Investorer Niv 2.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--53
+[11] (../Evne-Ordbog/Helbred sår.tex) (../Evne-Ordbog/Investorer/Investorer Niv 2.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 2--51
 
  []
 
 (../Evne-Ordbog/Reparere rustning Niv. 1.tex)) (mainstuff/Niv3.tex
 
-[11]
+[12]
 Kapitel 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--21
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--24
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
 
  []
 
 
 
-[12
+[13
 
 
-]
-
-[13] (../Evne-Ordbog/Investorer/Investorer Niv 3.tex)) (mainstuff/Niv4.tex
+] (../Evne-Ordbog/Investorer/Investorer Niv 3.tex)) (mainstuff/Niv4.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--1
 
  []
@@ -1404,20 +1421,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--1
 
 
 
-[18]
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 27.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 27.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 27.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 27.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 27.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 27.
- (../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex)
+[18] (../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 2--32
 
  []
@@ -1482,20 +1486,20 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D78978682F1E6A45BD1CC73835D9ED19;6805.
+(rerunfilecheck)             Checksum: FD5E85B4F54445BFC7FA0FD65D384D52;6805.
  ) 
 Here is how much of TeX's memory you used:
- 37052 strings out of 468149
- 739278 string characters out of 5431082
- 1202983 words of memory out of 5000000
+ 37053 strings out of 468149
+ 739289 string characters out of 5431082
+ 1204962 words of memory out of 5000000
  64753 multiletter control sequences out of 15000+600000
  682411 words of font info for 134 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 121i,17n,124p,916b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,17n,124p,916b,710s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (24 pages, 4374499 bytes).
+Output written on main.pdf (24 pages, 4375824 bytes).
 PDF statistics:
- 569 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
+ 571 PDF objects out of 1000 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
  551 words of extra memory for PDF output out of 10000 (max. 10000000)
 
