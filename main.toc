@@ -6,14 +6,14 @@
 \contentsline {subsection}{Brug af Pistol}{7}{subsection*.5}%
 \contentsline {subsection}{Hærfører Niv. 1}{7}{subsection*.6}%
 \contentsline {subsubsection}{Tropper:}{8}{subsubsection*.7}%
-\contentsline {subsubsection}{Krav for Faktionsidentifikation:}{9}{subsubsection*.8}%
+\contentsline {subsubsection}{Krav for Faktionsidentifikation:}{8}{subsubsection*.8}%
 \contentsline {subsection}{Investorer Niv. 1}{9}{subsection*.9}%
 \contentsline {subsection}{Læse og skrive Elvisk}{9}{subsection*.10}%
 \contentsline {subsection}{Rygte Spreder/Samler Niv. 1}{9}{subsection*.12}%
 \contentsline {chapter}{\numberline {3}Niveau 2}{10}{chapter.3}%
 \contentsline {section}{Evne beskrivelse}{10}{section*.14}%
-\contentsline {subsection}{Kontakter Niv. 2}{10}{subsection*.15}%
-\contentsline {subsection}{Borgadministrator}{11}{subsection*.16}%
+\contentsline {subsection}{Borgadministrator}{10}{subsection*.15}%
+\contentsline {subsection}{Kontakter Niv. 2}{10}{subsection*.16}%
 \contentsline {subsection}{Hærfører Niv. 2}{11}{subsection*.17}%
 \contentsline {subsubsection}{Tropper:}{11}{subsubsection*.18}%
 \contentsline {subsection}{Helbred Sår}{12}{subsection*.19}%
